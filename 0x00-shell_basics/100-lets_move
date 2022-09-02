@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod _ls_ mv /tmp/u
+mv src/*[A-Z]* /tmp/u
